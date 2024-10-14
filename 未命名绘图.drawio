@@ -68,7 +68,7 @@
             <mxPoint x="-2" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3P8sc-XmkoWIavLkZpjN-16" value="是否自动续期实验,切24小时内过期" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="3P8sc-XmkoWIavLkZpjN-16" value="是否自动续期实验&lt;div&gt;且24小时内过期&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="643" y="100" width="130" height="80" as="geometry" />
         </mxCell>
         <mxCell id="3P8sc-XmkoWIavLkZpjN-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="3P8sc-XmkoWIavLkZpjN-23" target="3P8sc-XmkoWIavLkZpjN-33" edge="1">
