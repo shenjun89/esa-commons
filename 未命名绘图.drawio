@@ -56,11 +56,11 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="3P8sc-XmkoWIavLkZpjN-15" value="发布实验配置" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="648" y="10" width="120" height="60" as="geometry" />
+          <mxGeometry x="647" y="10" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3P8sc-XmkoWIavLkZpjN-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="3P8sc-XmkoWIavLkZpjN-16" target="3P8sc-XmkoWIavLkZpjN-23" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="708" y="150" as="targetPoint" />
+            <mxPoint x="707" y="150" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="3P8sc-XmkoWIavLkZpjN-32" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="3P8sc-XmkoWIavLkZpjN-19" vertex="1" connectable="0">
@@ -69,7 +69,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="3P8sc-XmkoWIavLkZpjN-16" value="是否自动续期实验&lt;div&gt;且24小时内过期&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="643" y="100" width="130" height="80" as="geometry" />
+          <mxGeometry x="642" y="100" width="130" height="80" as="geometry" />
         </mxCell>
         <mxCell id="3P8sc-XmkoWIavLkZpjN-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="3P8sc-XmkoWIavLkZpjN-23" target="3P8sc-XmkoWIavLkZpjN-33" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -77,7 +77,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="3P8sc-XmkoWIavLkZpjN-23" value="续期处理" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" parent="1" vertex="1">
-          <mxGeometry x="625.5" y="240" width="165" height="80" as="geometry" />
+          <mxGeometry x="624.5" y="240" width="165" height="80" as="geometry" />
         </mxCell>
         <mxCell id="3P8sc-XmkoWIavLkZpjN-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="3P8sc-XmkoWIavLkZpjN-25" target="3P8sc-XmkoWIavLkZpjN-26" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -188,7 +188,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="3P8sc-XmkoWIavLkZpjN-64" value="定时任务:2小时&lt;div&gt;redfs分布式加锁&lt;br&gt;&lt;div&gt;全表扫描，还在生效中续期且24小时内过期实验&lt;/div&gt;&lt;/div&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" parent="1" vertex="1">
-          <mxGeometry x="388" y="240" width="200" height="80" as="geometry" />
+          <mxGeometry x="387" y="240" width="200" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
